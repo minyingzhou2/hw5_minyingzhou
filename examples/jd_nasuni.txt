@@ -1,0 +1,17 @@
+Data Science Summer Intern – Customer Experience (AI & Proactive Customer Health and Insights)
+
+Nasuni is seeking a Master's-level student to apply artificial intelligence and machine learning to real-world business challenges within a SaaS environment.
+
+Key Responsibilities
+- Develop predictive models to identify customer health risks, churn likelihood, and expansion opportunities.
+- Analyze customer product usage, engagement metrics, and support data to generate actionable insights.
+- Build dashboards and visualizations for Customer Success leadership.
+- Work cross-functionally with Customer Success, Operations, and leadership teams.
+- Prepare concise summaries and communicate findings clearly.
+
+Qualifications
+- Proficiency in Python and SQL.
+- Experience with pandas, data visualization, and statistics.
+- Familiarity with machine learning workflows and experimentation.
+- Strong communication skills and ability to work with stakeholders.
+- Preferred: experience with customer analytics, ETL / data pipelines, and APIs.

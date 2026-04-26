@@ -1,0 +1,9 @@
+Pricing Analyst
+
+We are looking for a candidate who can analyze pricing performance, build recurring reports, and partner with business stakeholders.
+
+Requirements
+- Strong Excel and SQL skills.
+- Experience with dashboards, data visualization, and experimentation.
+- Ability to communicate findings to non-technical audiences.
+- Preferred: Python, Tableau, and project management experience.

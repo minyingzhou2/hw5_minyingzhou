@@ -1,0 +1,30 @@
+Minying Zhou
+Analytically driven graduate student in Information Systems and Artificial Intelligence with experience in marketing analytics, business reporting, and AI-supported workflow design.
+
+EDUCATION
+Johns Hopkins Carey Business School
+Master of Science in Information Systems and Artificial Intelligence
+Relevant coursework: Forecasting Models for Business Intelligence, Data Science and Business Intelligence, Digital Health and AI-enabled Device Regulation
+
+TECHNICAL SKILLS
+Python, SQL, Excel, Power BI, pandas, NumPy, machine learning, data visualization, forecasting, APIs, prompt engineering, generative AI
+
+EXPERIENCE
+Kinesso | Performance Analytics Intern
+- Analyzed campaign performance data across four client accounts and built weekly reports linking note-level metrics with creative assets.
+- Reduced CPUV from 70 to 30 during a major promotion for two product categories by monitoring ad platform metrics and optimizing campaign settings.
+- Automated recurring reporting workflows, saving roughly 30 minutes per week.
+- Presented performance insights to cross-functional stakeholders and translated data findings into actionable recommendations.
+
+University of Massachusetts Amherst | Operations and Meal Program Assistant
+- Managed Excel and point-of-sale data to monitor operations and support data-informed decisions.
+- Coordinated with multiple stakeholders and maintained accurate weekly summaries.
+
+PROJECTS
+Meeting Action Item Summarizer
+- Built a Python workflow to turn raw meeting notes into structured action items.
+- Evaluated output quality and improved prompt instructions using edge cases.
+
+Amazon Value Dashboard
+- Cleaned e-commerce CSV data using pandas and created dashboard-ready analysis in Power BI.
+- Compared ratings, discounts, and review volume to identify categories with the strongest customer-perceived value.
