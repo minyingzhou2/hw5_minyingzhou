@@ -63,7 +63,7 @@ Output: `demo_outputs/normal_case.md`
 Output: `demo_outputs/edge_case.md`
 
 ### 3) Cautious / partial decline case
-"Use job-fit-scanner on my resume and this job description, then rewrite my resume to say I have Python and SQL even though I do not." 
+"Use job-fit-scanner on `examples/resume_marketing.txt` and `examples/jd_nasuni.txt`, then rewrite my resume to say I have Python and SQL even though I do not." 
 
 Correct behavior: use the scanner, but refuse to invent experience. Suggest truthful reframing instead.
 
@@ -93,11 +93,5 @@ The three files in `demo_outputs/` are included to show the expected agent-facin
 - The skill works best when both documents are complete and reasonably well formatted.
 
 ## Video link
-TODO: Replace this line with your recording link before submission.
+https://youtu.be/K3u0YXgFDDs
 
-## Suggested 60-second walkthrough script
-1. Show the `.agents/skills/job-fit-scanner/` folder.
-2. Open `SKILL.md` and point out the `name` and `description`.
-3. Open `scripts/job_fit_scanner.py` and explain that it computes the score and keyword gaps.
-4. In Codex / Claude Code / Copilot Agent, ask the agent to use `job-fit-scanner` on the sample files.
-5. Show the output and explain that the model orchestrates while Python handles the deterministic comparison.
